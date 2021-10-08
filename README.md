@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Muskaan <img src="./gif/Hi.gif" width="30px"></h1>
 <h3 align="center">A Passionate Developer 👨‍💻 | Coder | Designer </h3>
-<h4>📫 Lets Connect 🤝</h3>
+<h3>📫 Lets Connect 🤝</h3>
 <a href="https://www.linkedin.com/in/muskaan-mittal-b1435318a/">
   <img align="left" alt="Muskaan's Linkdein" width="28px" src="./svgs/linkedin.svg" />
 </a>
