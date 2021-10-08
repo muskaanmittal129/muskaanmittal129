@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Muskaan <img src="./gif/Hi.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Muskaan <img src="./gif/Hi.gif" width="30px"></h1>
 <h3 align="center">A Passionate Developer 👨‍💻 | Coder | Designer </h3>
 <h3>📫 Lets Connect 🤝</h3>
 <a href="https://www.linkedin.com/in/muskaan-mittal-b1435318a/">
@@ -9,7 +9,7 @@
 </a>
 <br/>
 
-<h3>🔭 Have a look at my work 👇</h3>
+<h3>🔭 Take a look at some of my work 👇</h3>
 <a href="https://github.com/muskaanmittal129">
   <img alt="Muskaan's Github" width="28px" src="./pngs/github.png" />
 </a>
