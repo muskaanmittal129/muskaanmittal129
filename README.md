@@ -18,7 +18,7 @@
 </a>
 <br/>
 
-<h3>🌱 Have a look at my coding profiles 👇</h3>
+<h3>🌱 Take a look at my coding profiles below 👇</h3>
 <a href="https://www.hackerrank.com/itsmuskaanmitta1">
   <img align="left" alt="Muskaan's Hackerrank" width="28px" src="./svgs/hackerrank.svg" />
 </a>
